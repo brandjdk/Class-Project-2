@@ -1,1 +1,3 @@
-{"Campouts":[{"CampoutTitle":"Caving Outing","CampoutAttendees":"20","CampoutType":"caving","CampoutDate":"11/20/2019","CampoutLocation":"Old Rag","TrailName":"Old Rag Mountain"},{"CampoutTitle":"Rappelling Outing","CampoutAttendees":"15","CampoutType":"rappelling","CampoutDate":"12/25/2019","CampoutLocation":"Signal Knob"},{"CampoutTitle":"Normal Campout","CampoutAttendees":"26","CampoutType":"camping","CampoutDate":"10/23/2018","CampoutLocation":"Bull Run"}],"Status":"OK"}
+{"Campouts":[{"CampoutTitle":"Caving Outing","CampoutAttendees":"20","CampoutType":"caving","CampoutDate":"11/20/2019","CampoutLocation":"Old Rag","TrailName":"Old Rag Mountain"},
+{"CampoutTitle":"Rappelling Outing","CampoutAttendees":"15","CampoutType":"rappelling","CampoutDate":"12/25/2019","CampoutLocation":"Signal Knob"},
+{"CampoutTitle":"Normal Campout","CampoutAttendees":"26","CampoutType":"camping","CampoutDate":"10/23/2018","CampoutLocation":"Bull Run"}],"Status":"OK"}
